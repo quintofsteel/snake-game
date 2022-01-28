@@ -8,7 +8,7 @@ In order to run this script, You just need the following 3 modules
 
 - **Pygame:** It is a set of Python modules designed for writing video games.
 - **Time:** This function is used to count the number of seconds elapsed since the epoch.
-- **Random:** This function is used to generate random numbers in Python by using random module. **Pygame, Time and Random**
+- **Random:** This function is used to generate random numbers in Python by using random module. 
 
 ## Screenshots
 ![Example screenshot](./snake-image.png)
