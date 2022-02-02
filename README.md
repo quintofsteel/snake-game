@@ -11,7 +11,7 @@ In order to run this script, You just need the following 3 modules
 - **Random:** This function is used to generate random numbers in Python by using random module. 
 
 ## Screenshots
-![Example screenshot](./snake-image.png)
+![Example screenshot](./snake.png)
 
 
 ## Usage
